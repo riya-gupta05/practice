@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+div .logo{
+    height: 120px;
+    width: 200px;
+}
+
+.details{
+    line-height: 10px;
+}
